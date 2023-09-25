@@ -1,8 +1,7 @@
 # DevOpsTrainee-learning
 
 Project Overview Diagram
-
-![alt text](https://github.com/BananaSorcery/DevOpsTrainee-learning/blob/main/Opswat_pipeline.png?raw=true)
+![alt text](https://github.com/BananaSorcery/DevOpsTrainee-learning/blob/main/Opswat_app.png?raw=true)
 
 Back-end Application
 ![alt text](https://github.com/BananaSorcery/DevOpsTrainee-learning/blob/main/Backend_app.png?raw=true)
